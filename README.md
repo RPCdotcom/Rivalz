@@ -1,1 +1,1 @@
-# Rivalz
+# Rivalz Node Setup
