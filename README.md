@@ -14,14 +14,20 @@ Install Curl :
 
 sudo apt install -y curl
 Node.js 20 
-
+```console
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+```
+
 ```console
 sudo apt install -y nodejs
+```
+
 ```console
 node --version
 ```
+
 Install Screen  ( Optional ) : 
+
 ```console
 apt-get install screen -y
 ```
