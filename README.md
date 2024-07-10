@@ -7,13 +7,18 @@ Hetzner : bit.ly/hetznerlink
 Contabo : https://bit.ly/contabourl
 
 Update : 
-Copy
+```console
 sudo apt-get update && sudo apt-get upgrade -y
+```
 
 Install Curl : 
-
+```console
 sudo apt install -y curl
+```
+
 Node.js 20 
+
+
 ```console
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 ```
